@@ -9,7 +9,7 @@ _<h3 align="center">Authentication middleware for Deno</h3>_
   <a href="https://github.com/oslabs-beta/dashport/blob/main/LICENSE">
       <img alt="License" src="https://img.shields.io/github/license/oslabs-beta/dashport?color=light-blue">
   </a>
-  <a href="https://github.com/oslabs-beta/dashport/stargazers">
+  <a href="https://github.com/oslabs-beta/dashport/issues">
       <img alt="Open issues" src="https://img.shields.io/github/issues-raw/oslabs-beta/dashport?color=yellow">
   </a>
     <a href="https://github.com/oslabs-beta/dashport/stargazers">
