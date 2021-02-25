@@ -4,9 +4,14 @@
 
 _<h3 align="center">Authentication middleware for Deno</h3>_
 
-<a href="https://github.com/oslabs-beta/dashport/stargazers">
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/oslabs-beta/dashport?color=blue">
-</a>
+<p align="center">
+  <a href="https://github.com/oslabs-beta/dashport/blob/main/LICENSE">
+      <img alt="GitHub stars" src="https://img.shields.io/github/license/oslabs-beta/dashport?color=light-blue">
+  </a>
+  <a href="https://github.com/oslabs-beta/dashport/stargazers">
+      <img alt="GitHub stars" src="https://img.shields.io/github/stars/oslabs-beta/dashport?color=blue">
+  </a>
+</p>
 
 # Features
 
